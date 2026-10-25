@@ -1,0 +1,9 @@
+Car (Green): Beep beep!
+Car (Green): Standard maintenance done.
+SportsCar (Red): Vroom!
+Car (Red): Standard maintenance done.
+ElectricCar (Yellow): Silent chime!
+Car (Yellow): Standard maintenance done.
+-----------------------
+GPS: Navigating to destination...
+GPS: Navigating to destination...
